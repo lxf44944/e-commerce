@@ -1,0 +1,22 @@
+@CHARSET "GBK";
+
+.weifoot {
+	text-align: center;
+	line-height: 30px;
+	width: 1000px;
+	background: #9eccc8;
+	height: 30px;
+	color: #046561;
+	font-family: Verdana;
+	font-size: 12px;
+	margin: 0 auto;
+	align: center
+}
+
+.font03 {
+	line-height: 30px;
+	text-align: center;
+	color: #046561;
+	font-family: "SimSun", "Arial Narrow";
+	font-size: 12px;
+}

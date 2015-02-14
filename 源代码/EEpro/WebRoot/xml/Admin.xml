@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<!--用户名、密码、确认密码、真实姓名、性别、出生日期、电子邮箱、电话号码、地址、邮编  -->
+<admins> 
+	<admin sid="superAdmin"> 
+		<pass>super</pass>  
+		<name>超级管理员</name>  
+		<sex>男</sex>  
+		<birthday>2013-05-01</birthday>  
+		<email>lxf_44944@163.com</email>  
+		<number>18050403043</number>  
+		<adress>福建工程学院</adress>  
+		<postcode>350108</postcode>  
+		<level>0</level> 
+	</admin>  
+	<admin sid="lxf1"> 
+		<pass>lxf1</pass>  
+		<name>刘向峰1</name>  
+		<sex>男</sex>  
+		<birthday>1992-01-01</birthday>  
+		<email>lxf_44911@163.com</email>  
+		<number>18050403041</number>  
+		<adress>福建工程学院1</adress>  
+		<postcode>350101</postcode>  
+		<level>1</level> 
+	</admin>  
+	<admin sid="lxf2"> 
+		<pass>lxf2</pass>  
+		<name>刘向峰2</name>  
+		<sex>女</sex>  
+		<birthday>1992-02-02</birthday>  
+		<email>lxf_44922@163.com</email>  
+		<number>18050403042</number>  
+		<adress>福建工程学院2</adress>  
+		<postcode>350102</postcode>  
+		<level>1</level> 
+	</admin>  
+	<admin sid="lxf3"> 
+		<pass>lxf3</pass>  
+		<name>刘向峰3</name>  
+		<sex>男</sex>  
+		<birthday>1992-03-03</birthday>  
+		<email>lxf_44933@163.com</email>  
+		<number>18050403043</number>  
+		<adress>福建工程学院3</adress>  
+		<postcode>350103</postcode>  
+		<level>1</level> 
+	</admin>  
+	<admin sid="lxf4"> 
+		<pass>lxf4</pass>  
+		<name>刘向峰4</name>  
+		<sex>女</sex>  
+		<birthday>1992-04-04</birthday>  
+		<email>lxf_44944@163.com</email>  
+		<number>18050403044</number>  
+		<adress>福建工程学院4</adress>  
+		<postcode>350104</postcode>  
+		<level>1</level> 
+	</admin>  
+	<admin sid="lxf5"> 
+		<pass>lxf5</pass>  
+		<name>刘向峰5</name>  
+		<sex>男</sex>  
+		<birthday>1992-05-05</birthday>  
+		<email>lxf_44955@163.com</email>  
+		<number>18050403045</number>  
+		<adress>福建工程学院5</adress>  
+		<postcode>350105</postcode>  
+		<level>1</level> 
+	</admin>  
+	<admin sid="lxf6"> 
+		<pass>lxf6</pass>  
+		<name>刘向峰6</name>  
+		<sex>女</sex>  
+		<birthday>1992-06-06</birthday>  
+		<email>lxf_44966@163.com</email>  
+		<number>18050403046</number>  
+		<adress>福建工程学院6</adress>  
+		<postcode>350106</postcode>  
+		<level>1</level> 
+	</admin>  
+	<admin sid="lxf7"> 
+		<pass>lxf7</pass>  
+		<name>刘向峰7</name>  
+		<sex>男</sex>  
+		<birthday>1992-07-07</birthday>  
+		<email>lxf_44977@163.com</email>  
+		<number>18050403047</number>  
+		<adress>福建工程学院7</adress>  
+		<postcode>350107</postcode>  
+		<level>1</level> 
+	</admin>  
+	<admin sid="lxf8"> 
+		<pass>lxf8</pass>  
+		<name>刘向峰8</name>  
+		<sex>女</sex>  
+		<birthday>1992-08-08</birthday>  
+		<email>lxf_44988@163.com</email>  
+		<number>18050403048</number>  
+		<adress>福建工程学院8</adress>  
+		<postcode>350108</postcode>  
+		<level>1</level> 
+	</admin> 
+</admins>

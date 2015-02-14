@@ -1,0 +1,82 @@
+@CHARSET "GBK";
+
+* {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	/* color: rgb(51, 51, 51); */
+}
+
+img {
+	border: currentColor;
+	border-collapse: collapse;
+}
+
+table {
+	border: currentColor;
+	border-collapse: collapse;
+}
+
+tr {
+	border: currentColor;
+	border-collapse: collapse;
+}
+
+td {
+	border: currentColor;
+	border-collapse: collapse;
+}
+
+a {
+	 color: rgb(132, 168, 200); 
+	text-decoration: none;
+}
+
+a:link {
+	color: rgb(65, 153, 215);
+}
+
+a:visited {
+	color: rgb(64, 153, 214);
+}
+
+a:hover {
+	color: rgb(65, 153, 215);
+	cursor: pointer;
+}
+
+a:active {
+	color: rgb(64, 153, 214);
+}
+
+html {
+	overflow-x: auto;
+	overflow-y: scroll;
+}
+
+body {
+	background: url(../front/image/body.png) repeat-x 0px 0px
+		rgb(255, 255, 255); font : 22px/ 24px Geneva, "ËÎÌו", Tahoma, sans-serif;
+	color: rgb(51, 51, 51);
+	overflow-x: hidden;
+	overflow-y: auto;
+	font-size-adjust: none;
+	font-stretch: normal;
+	font: 22px/24px Geneva, "ËÎÌו", Tahoma, sans-serif;
+}
+
+input {
+	padding: 0px;
+	border: currentColor;
+	width: 250px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	_height: 22px;
+}
+
+td {
+	border: currentColor;
+	height: 50px;
+	font-size: 18px;
+}

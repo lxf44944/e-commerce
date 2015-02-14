@@ -1,0 +1,50 @@
+#wrapper{ 
+  margin:10px;  
+}
+
+caption{
+  font-size:14px;
+  font-weight:bold;
+  width:100%;
+  border-bottom:1px solid gray; 
+  padding-border:2px;
+}
+
+#listtable{
+  width:100%;
+  margin-top:10px;
+}
+
+th{
+  border-bottom:1px solid black;
+}
+
+td{
+  text-align:center;
+  border-bottom:1px dotted gray;
+}
+
+.notFound{
+
+  color:black;
+  text-align:center;
+  margin-left:200px;
+  margin-top:50px;
+  width:400px;
+  border:1px solid blue;
+  padding:30px;
+  
+}
+
+#pageInfo{
+  text-align:right;
+  padding-right:10px;
+  font-family:verdana;
+  margin-top:3px;
+}
+
+a{
+   color: rgb(9, 142, 154);
+   text-decoration:none;
+   cursor:hand; 
+}

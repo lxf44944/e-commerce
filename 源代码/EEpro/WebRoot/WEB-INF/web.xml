@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+	<display-name></display-name>
+	<servlet>
+		<description>This is the description of my J2EE component</description>
+		<display-name>This is the display name of my J2EE component</display-name>
+		<servlet-name>LoginServlet</servlet-name>
+		<servlet-class>servlet.admin.LoginServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<description>This is the description of my J2EE component</description>
+		<display-name>This is the display name of my J2EE component</display-name>
+		<servlet-name>FrontLoginServlet</servlet-name>
+		<servlet-class>servlet.front.FrontLoginServlet</servlet-class>
+	</servlet>
+   <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RegServlet</servlet-name>
+    <servlet-class>servlet.front.RegServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>McServlet</servlet-name>
+    <servlet-class>servlet.front.McServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UserServlet</servlet-name>
+    <servlet-class>servlet.admin.UserServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>BackMcServlet</servlet-name>
+    <servlet-class>servlet.admin.BackMcServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CarServlet</servlet-name>
+    <servlet-class>servlet.front.CarServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TypeServlet</servlet-name>
+    <servlet-class>servlet.admin.TypeServlet</servlet-class>
+  </servlet>
+ <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>McTypeServlet</servlet-name>
+    <servlet-class>servlet.admin.McTypeServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RegSucServlet</servlet-name>
+    <servlet-class>servlet.front.RegSucServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AdminServlet</servlet-name>
+    <servlet-class>servlet.admin.AdminServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AddTypeServlet</servlet-name>
+    <servlet-class>servlet.admin.AddTypeServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TypeAddServlet</servlet-name>
+    <servlet-class>servlet.admin.TypeAddServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AddMcTypeServlet</servlet-name>
+    <servlet-class>servlet.admin.AddMcTypeServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AddMcServlet</servlet-name>
+    <servlet-class>servlet.admin.AddMcServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AdminMcServlet</servlet-name>
+    <servlet-class>servlet.admin.AdminMcServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateMcServlet</servlet-name>
+    <servlet-class>servlet.admin.UpdateMcServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>StatusServlet</servlet-name>
+    <servlet-class>servlet.admin.StatusServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateServlet</servlet-name>
+    <servlet-class>servlet.admin.UpdateServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateBasicServlet</servlet-name>
+    <servlet-class>servlet.admin.UpdateBasicServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>QuitLogin</servlet-name>
+    <servlet-class>servlet.admin.QuitLogin</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdaUserInfoServlet</servlet-name>
+    <servlet-class>servlet.front.UpdaUserInfoServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>OderSureServlet</servlet-name>
+    <servlet-class>servlet.front.OderSureServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>OrderServlet</servlet-name>
+    <servlet-class>servlet.front.OrderServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>MyOrderServlet</servlet-name>
+    <servlet-class>servlet.front.MyOrderServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>BorderServlet</servlet-name>
+    <servlet-class>servlet.admin.BorderServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CheckOrderServlet</servlet-name>
+    <servlet-class>servlet.admin.CheckOrderServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ViewOrderServlet</servlet-name>
+    <servlet-class>servlet.front.ViewOrderServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>BviewOrderServlet</servlet-name>
+    <servlet-class>servlet.admin.BviewOrderServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateOrderServlet</servlet-name>
+    <servlet-class>servlet.admin.UpdateOrderServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>InUpdateOrderServlet</servlet-name>
+    <servlet-class>servlet.admin.InUpdateOrderServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>FquiteLogin</servlet-name>
+    <servlet-class>servlet.front.FquiteLogin</servlet-class>
+  </servlet>
+<servlet>
+    <servlet-name>FileUploadServlet</servlet-name>
+    <servlet-class>servlet.front.FileUploadServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>AjaxServlet</servlet-name>
+    <servlet-class>servlet.front.AjaxServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>BajaxServlet</servlet-name>
+    <servlet-class>servlet.admin.BajaxServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ItemDetailServlet</servlet-name>
+    <servlet-class>servlet.front.ItemDetailServlet</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+	<servlet-mapping>
+		<servlet-name>LoginServlet</servlet-name>
+		<url-pattern>/loginServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>FrontLoginServlet</servlet-name>
+		<url-pattern>/frontLoginServlet</url-pattern>
+	</servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>RegServlet</servlet-name>
+    <url-pattern>/regServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>McServlet</servlet-name>
+    <url-pattern>/McServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UserServlet</servlet-name>
+    <url-pattern>/UserServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>BackMcServlet</servlet-name>
+    <url-pattern>/BackMcServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CarServlet</servlet-name>
+    <url-pattern>/CarServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TypeServlet</servlet-name>
+    <url-pattern>/TypeServlet</url-pattern>
+  </servlet-mapping>
+<servlet-mapping>
+    <servlet-name>McTypeServlet</servlet-name>
+    <url-pattern>/McTypeServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RegSucServlet</servlet-name>
+    <url-pattern>/RegSucServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AdminServlet</servlet-name>
+    <url-pattern>/AdminServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AddTypeServlet</servlet-name>
+    <url-pattern>/AddTypeServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TypeAddServlet</servlet-name>
+    <url-pattern>/TypeAddServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AddMcTypeServlet</servlet-name>
+    <url-pattern>/AddMcTypeServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AddMcServlet</servlet-name>
+    <url-pattern>/AddMcServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AdminMcServlet</servlet-name>
+    <url-pattern>/AdminMcServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateMcServlet</servlet-name>
+    <url-pattern>/UpdateMcServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>StatusServlet</servlet-name>
+    <url-pattern>/StatusServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateServlet</servlet-name>
+    <url-pattern>/UpdateServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateBasicServlet</servlet-name>
+    <url-pattern>/UpdateBasicServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>QuitLogin</servlet-name>
+    <url-pattern>/QuitLogin</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdaUserInfoServlet</servlet-name>
+    <url-pattern>/UpdaUserInfoServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>OderSureServlet</servlet-name>
+    <url-pattern>/OderSureServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>OrderServlet</servlet-name>
+    <url-pattern>/OrderServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>MyOrderServlet</servlet-name>
+    <url-pattern>/MyOrderServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>BorderServlet</servlet-name>
+    <url-pattern>/BorderServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CheckOrderServlet</servlet-name>
+    <url-pattern>/CheckOrderServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ViewOrderServlet</servlet-name>
+    <url-pattern>/ViewOrderServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>BviewOrderServlet</servlet-name>
+    <url-pattern>/BviewOrderServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateOrderServlet</servlet-name>
+    <url-pattern>/UpdateOrderServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>InUpdateOrderServlet</servlet-name>
+    <url-pattern>/InUpdateOrderServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FquiteLogin</servlet-name>
+    <url-pattern>/FquiteLogin</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FileUploadServlet</servlet-name>
+    <url-pattern>/FileUploadServletUrl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AjaxServlet</servlet-name>
+    <url-pattern>/AjaxServletUrl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>BajaxServlet</servlet-name>
+    <url-pattern>/BajaxServletUrl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ItemDetailServlet</servlet-name>
+    <url-pattern>/ItemDetailServlet</url-pattern>
+  </servlet-mapping>
+
+
+	<filter>
+		<filter-name>encodeFilter</filter-name>
+		<filter-class>filter.EncodingFilter</filter-class>
+		<init-param>
+			<param-name>encode</param-name>
+			<param-value>GBK</param-value>
+		</init-param>
+	</filter>
+
+	<filter-mapping>
+		<filter-name>encodeFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+
+	<filter>
+		<filter-name>securityFilter</filter-name>
+		<filter-class>filter.SecurityFilter</filter-class>
+	</filter>
+	
+	<filter-mapping>
+		<filter-name>securityFilter</filter-name>
+		<url-pattern>/background/jsp/*</url-pattern>
+		 <servlet-name>McTypeServlet</servlet-name>
+		 <servlet-name>BackMcServlet</servlet-name>
+		 <servlet-name>UserServlet</servlet-name>
+		 <servlet-name>AdminServlet</servlet-name>
+		 <servlet-name>BorderServlet</servlet-name>
+		 <servlet-name>CheckOrderServlet</servlet-name>
+		<dispatcher>FORWARD</dispatcher>
+		<dispatcher>INCLUDE</dispatcher>
+		<dispatcher>REQUEST</dispatcher>
+		<dispatcher>ASYNC</dispatcher>
+		
+	</filter-mapping>
+
+
+	<filter>
+		<filter-name>userFilter</filter-name>
+		<filter-class>filter.UserFilter</filter-class>
+	</filter>
+	
+	<filter-mapping>
+		<filter-name>userFilter</filter-name>
+		<url-pattern>/front/jsp/userCenter/*</url-pattern>
+		<servlet-name>MyOrderServlet</servlet-name>
+		<dispatcher>FORWARD</dispatcher>
+		<dispatcher>INCLUDE</dispatcher>
+		<dispatcher>REQUEST</dispatcher>
+		<dispatcher>ASYNC</dispatcher>
+	</filter-mapping>
+	
+	
+
+	
+	
+	<listener>
+		<listener-class>listener.SessionListener</listener-class>
+	</listener>
+	
+	<session-config>
+		<session-timeout>10</session-timeout>
+	</session-config>
+
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>

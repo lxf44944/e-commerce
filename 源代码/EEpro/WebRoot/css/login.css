@@ -1,0 +1,135 @@
+@CHARSET "GBK";
+
+a {
+	color: #008EE3
+}
+
+a:link {
+	text-decoration: none;
+	color: #008EE3
+}
+
+A:visited {
+	text-decoration: none;
+	color: #666666
+}
+
+A:active {
+	text-decoration: underline
+}
+
+A:hover {
+	text-decoration: underline;
+	color: #0066CC
+}
+
+A.b:link {
+	text-decoration: none;
+	font-size: 12px;
+	font-family: "Helvetica,Î¢ÈíÑÅºÚ,ËÎÌå";
+	color: #FFFFFF;
+}
+
+A.b:visited {
+	text-decoration: none;
+	font-size: 12px;
+	font-family: "Helvetica,Î¢ÈíÑÅºÚ,ËÎÌå";
+	color: #FFFFFF;
+}
+
+A.b:active {
+	text-decoration: underline;
+	color: #FF0000;
+}
+
+A.b:hover {
+	text-decoration: underline;
+	color: #ffffff
+}
+
+.table1 {
+	border: 1px solid #CCCCCC;
+}
+
+.font {
+	font-size: 12px;
+	text-decoration: none;
+	color: #999999;
+	line-height: 20px;
+}
+
+.input {
+	font-size: 12px;
+	color: #999999;
+	text-decoration: none;
+	border: 0px none #999999;
+}
+
+td {
+	font-size: 12px;
+	color: #007AB5;
+}
+
+form {
+	margin: 1px;
+	padding: 1px;
+}
+
+input {
+	border: 0px;
+	height: 26px;
+	width: 100px;
+	color: #007AB5;
+	.
+	unnamed1
+	{
+	border
+	:
+	thin
+	none
+	#FFFFFF;
+}
+
+.unnamed1 {
+	border: thin none #FFFFFF;
+}
+
+select {
+	border: 1px solid #cccccc;
+	height: 18px;
+	color: #666666;
+	.
+	unnamed1
+	{
+	border
+	:
+	thin
+	none
+	#FFFFFF;
+}
+
+body {
+	background-repeat: no-repeat;
+	background-color: #9CDCF9;
+	background-position: 0px 0px;
+	
+}
+
+.tablelinenotop {
+	border-top: 0px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 0px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+}
+
+.tablelinenotopdown {
+	border-top: 1px solid #eeeeee;
+	border-right: 1px solid #eeeeee;
+	border-bottom: 1px solid #eeeeee;
+	border-left: 1px solid #eeeeee;
+}
+
+.style6 {
+	FONT-SIZE: 9pt;
+	color: #7b8ac3;
+}
