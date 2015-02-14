@@ -1,56 +1,56 @@
-insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf001','lxf001','ÁõÏò·å1','ÄĞ','1992-01-01','lxf_44911@163.com','18050403041','É½Î÷´óÍ¬Ò»','037001');
-insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf002','lxf002','ÁõÏò·å2','Å®','1992-02-02','lxf_44922@163.com','18050403042','É½Î÷´óÍ¬¶ş','037002');
-insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf003','lxf003','ÁõÏò·å3','ÄĞ','1992-03-03','lxf_44933@163.com','18050403043','É½Î÷´óÍ¬Èı','037003');
-insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf004','lxf004','ÁõÏò·å4','Å®','1992-04-04','lxf_44944@163.com','18050403044','É½Î÷´óÍ¬ËÄ','037004');
-insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf005','lxf005','ÁõÏò·å5','ÄĞ','1992-05-05','lxf_44955@163.com','18050403045','É½Î÷´óÍ¬Îå','037005');
-insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf006','lxf006','ÁõÏò·å6','ÄĞ','1992-06-01','lxf_44966@163.com','18050403046','É½Î÷´óÍ¬Áù','037006');
-insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf007','lxf007','ÁõÏò·å7','Å®','1992-07-02','lxf_44977@163.com','18050403047','É½Î÷´óÍ¬Æß','037007');
-insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf008','lxf008','ÁõÏò·å8','ÄĞ','1992-08-03','lxf_44988@163.com','18050403048','É½Î÷´óÍ¬°Ë','037008');
-insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf009','lxf009','ÁõÏò·å9','Å®','1992-09-04','lxf_44999@163.com','18050403049','É½Î÷´óÍ¬¾Å','037009');
-insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf000','lxf000','ÁõÏò·å0','ÄĞ','1992-10-05','lxf_44900@163.com','18050403040','É½Î÷´óÍ¬Ê®','037000');
+insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf001','lxf001','åˆ˜å‘å³°1','ç”·','1992-01-01','lxf_44911@163.com','12345678','å±±è¥¿å¤§åŒä¸€','037001');
+insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf002','lxf002','åˆ˜å‘å³°2','å¥³','1992-02-02','lxf_44922@163.com','12345678','å±±è¥¿å¤§åŒäºŒ','037002');
+insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf003','lxf003','åˆ˜å‘å³°3','ç”·','1992-03-03','lxf_44933@163.com','12345678','å±±è¥¿å¤§åŒä¸‰','037003');
+insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf004','lxf004','åˆ˜å‘å³°4','å¥³','1992-04-04','lxf_44944@163.com','12345678','å±±è¥¿å¤§åŒå››','037004');
+insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf005','lxf005','åˆ˜å‘å³°5','ç”·','1992-05-05','lxf_44955@163.com','12345678','å±±è¥¿å¤§åŒäº”','037005');
+insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf006','lxf006','åˆ˜å‘å³°6','ç”·','1992-06-01','lxf_44966@163.com','12345678','å±±è¥¿å¤§åŒå…­','037006');
+insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf007','lxf007','åˆ˜å‘å³°7','å¥³','1992-07-02','lxf_44977@163.com','12345678','å±±è¥¿å¤§åŒä¸ƒ','037007');
+insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf008','lxf008','åˆ˜å‘å³°8','ç”·','1992-08-03','lxf_44988@163.com','12345678','å±±è¥¿å¤§åŒå…«','037008');
+insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf009','lxf009','åˆ˜å‘å³°9','å¥³','1992-09-04','lxf_44999@163.com','12345678','å±±è¥¿å¤§åŒä¹','037009');
+insert into t_user(suser,pass,name,sex,birth,email,tel,address,postcode) values ('lxf000','lxf000','åˆ˜å‘å³°0','ç”·','1992-10-05','lxf_44900@163.com','12345678','å±±è¥¿å¤§åŒå','037000');
 
-insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'µçÄÔ',0);
-insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'ÊÖ»ú',0);
-insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'ÊıÂëÉè±¸',0);
-insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'ÁªÏë',1);
-insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'´÷¶û',1);
-insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'»İÆÕ',1);
-insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'Ë÷Äá',3);
-insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'Æ»¹û',2);
-insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'»ªÎª',2);
-insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'ÈıĞÇ',2);
-insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'Ğ¡Ã×',2);
-insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'¶«Ö¥',3);
+insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'ç”µè„‘',0);
+insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'æ‰‹æœº',0);
+insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'æ•°ç è®¾å¤‡',0);
+insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'è”æƒ³',1);
+insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'æˆ´å°”',1);
+insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'æƒ æ™®',1);
+insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'ç´¢å°¼',3);
+insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'è‹¹æœ',2);
+insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'åä¸º',2);
+insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'ä¸‰æ˜Ÿ',2);
+insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'å°ç±³',2);
+insert into t_mc_type(nid,sname,npid) values (seq_t_mc_type.nextval,'ä¸œèŠ',3);
 
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'ÁªÏëy170','512GÄÚ´æ£¬500G´ÅÅÌ£¬intel core i1´¦ÀíÆ÷£¬¼¯³ÉÏÔ¿¨£¬win xp',1999,'lenovo1.jpg','0',date '2011-11-11',1,4);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'ÁªÏëy270','1GÄÚ´æ£¬750G´ÅÅÌ£¬intel core i2´¦ÀíÆ÷£¬Ë«ÏÔ¿¨£¬win vista ',2999,'lenovo2.jpg','0',date '2012-1-24',1,4);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'ÁªÏëy370','2GÄÚ´æ£¬750G´ÅÅÌ£¬intel core i3´¦ÀíÆ÷£¬Ë«ÏÔ¿¨£¬win7 32Î»',3999,'lenovo3.jpg','0',date '2013-2-24',1,4);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'ÁªÏëy470','4GÄÚ´æ£¬750G´ÅÅÌ£¬intel core i4´¦ÀíÆ÷£¬Ë«ÏÔ¿¨£¬win7 64Î»',4999,'lenovo4.jpg','0',date '2013-4-14',1,4);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'ÁªÏëy570','8GÄÚ´æ£¬750G´ÅÅÌ£¬intel core i5´¦ÀíÆ÷£¬Ë«ÏÔ¿¨£¬win8',5999,'lenovo5.jpg','0',date '2013-5-31',1,4);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'Æ»¹û1S','2GÄÚ´æ£¬iso1',2999,'iphone1.jpg','0',date '2013-10-10',2,8);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'Æ»¹û2S','4GÄÚ´æ£¬iso2',3999,'iphone2.jpg','0',date '2013-10-10',2,8);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'Æ»¹û3S','8GÄÚ´æ£¬iso3',4999,'iphone3.jpg','0',date '2013-10-10',2,8);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'Æ»¹û4s','16GÄÚ´æ£¬iso4',5999,'iphone4.jpg','0',date '2013-10-10',2,8);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'Ğ¡Ã×1','4GÄÚ´æ£¬2ºË´¦ÀíÆ÷£¬android2.0.3',2999,'mi1.jpg','0',date '2013-1-1',2,11);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'Ğ¡Ã×2','8GÄÚ´æ£¬3ºË´¦ÀíÆ÷£¬android3.0.3',3999,'mi2.jpg','0',date '2013-1-1',2,11);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'Ğ¡Ã×3','16GÄÚ´æ£¬4ºË´¦ÀíÆ÷£¬android4.0.3',4999,'mi3.jpg','0',date '2013-1-1',2,11);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'ÈıĞÇ','4GÄÚ´æ£¬2ºË´¦ÀíÆ÷£¬android2.0.3',2999,'sanxing.jpg','0',date '2013-1-1',2,10);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'»ªÎª','8GÄÚ´æ£¬3ºË´¦ÀíÆ÷£¬android3.0.3',3999,'huawei.jpg','0',date '2013-1-1',2,9);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'Ë÷ÄáÕÕÏà»ú','1500WÏñËØ£¬È«×Ô¶¯µ÷½¹¼¼Êõ',4999,'sony.jpg','0',date '2013-1-1',3,7);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'´÷¶û','4GÄÚ´æ£¬750G´ÅÅÌ£¬intel core i3´¦ÀíÆ÷£¬Ë«ÏÔ¿¨£¬win7 64Î»',4099,'dell.jpg','0',date '2013-4-14',1,5);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'»İÆÕ','4GÄÚ´æ£¬750G´ÅÅÌ£¬intel core i3´¦ÀíÆ÷£¬Ë«ÏÔ¿¨£¬win8',5099,'huipu.jpg','0',date '2013-5-31',1,6);
-insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'¶«Ö¥±ùÏä','È«×Ô¶¯µçÄÔ¿ØÎÂ£¬×Ô¶¯³ıËª¼¼Êõ',5999,'dongzhi.jpg','0',date '2013-10-10',3,12);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'è”æƒ³y170','512Gå†…å­˜ï¼Œ500Gç£ç›˜ï¼Œintel core i1å¤„ç†å™¨ï¼Œé›†æˆæ˜¾å¡ï¼Œwin xp',1999,'lenovo1.jpg','0',date '2011-11-11',1,4);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'è”æƒ³y270','1Gå†…å­˜ï¼Œ750Gç£ç›˜ï¼Œintel core i2å¤„ç†å™¨ï¼ŒåŒæ˜¾å¡ï¼Œwin vista ',2999,'lenovo2.jpg','0',date '2012-1-24',1,4);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'è”æƒ³y370','2Gå†…å­˜ï¼Œ750Gç£ç›˜ï¼Œintel core i3å¤„ç†å™¨ï¼ŒåŒæ˜¾å¡ï¼Œwin7 32ä½',3999,'lenovo3.jpg','0',date '2013-2-24',1,4);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'è”æƒ³y470','4Gå†…å­˜ï¼Œ750Gç£ç›˜ï¼Œintel core i4å¤„ç†å™¨ï¼ŒåŒæ˜¾å¡ï¼Œwin7 64ä½',4999,'lenovo4.jpg','0',date '2013-4-14',1,4);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'è”æƒ³y570','8Gå†…å­˜ï¼Œ750Gç£ç›˜ï¼Œintel core i5å¤„ç†å™¨ï¼ŒåŒæ˜¾å¡ï¼Œwin8',5999,'lenovo5.jpg','0',date '2013-5-31',1,4);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'è‹¹æœ1S','2Gå†…å­˜ï¼Œiso1',2999,'iphone1.jpg','0',date '2013-10-10',2,8);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'è‹¹æœ2S','4Gå†…å­˜ï¼Œiso2',3999,'iphone2.jpg','0',date '2013-10-10',2,8);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'è‹¹æœ3S','8Gå†…å­˜ï¼Œiso3',4999,'iphone3.jpg','0',date '2013-10-10',2,8);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'è‹¹æœ4s','16Gå†…å­˜ï¼Œiso4',5999,'iphone4.jpg','0',date '2013-10-10',2,8);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'å°ç±³1','4Gå†…å­˜ï¼Œ2æ ¸å¤„ç†å™¨ï¼Œandroid2.0.3',2999,'mi1.jpg','0',date '2013-1-1',2,11);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'å°ç±³2','8Gå†…å­˜ï¼Œ3æ ¸å¤„ç†å™¨ï¼Œandroid3.0.3',3999,'mi2.jpg','0',date '2013-1-1',2,11);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'å°ç±³3','16Gå†…å­˜ï¼Œ4æ ¸å¤„ç†å™¨ï¼Œandroid4.0.3',4999,'mi3.jpg','0',date '2013-1-1',2,11);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'ä¸‰æ˜Ÿ','4Gå†…å­˜ï¼Œ2æ ¸å¤„ç†å™¨ï¼Œandroid2.0.3',2999,'sanxing.jpg','0',date '2013-1-1',2,10);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'åä¸º','8Gå†…å­˜ï¼Œ3æ ¸å¤„ç†å™¨ï¼Œandroid3.0.3',3999,'huawei.jpg','0',date '2013-1-1',2,9);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'ç´¢å°¼ç…§ç›¸æœº','1500Wåƒç´ ï¼Œå…¨è‡ªåŠ¨è°ƒç„¦æŠ€æœ¯',4999,'sony.jpg','0',date '2013-1-1',3,7);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'æˆ´å°”','4Gå†…å­˜ï¼Œ750Gç£ç›˜ï¼Œintel core i3å¤„ç†å™¨ï¼ŒåŒæ˜¾å¡ï¼Œwin7 64ä½',4099,'dell.jpg','0',date '2013-4-14',1,5);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'æƒ æ™®','4Gå†…å­˜ï¼Œ750Gç£ç›˜ï¼Œintel core i3å¤„ç†å™¨ï¼ŒåŒæ˜¾å¡ï¼Œwin8',5099,'huipu.jpg','0',date '2013-5-31',1,6);
+insert into t_mc(nid,sname,sdescription,nprice,simg,smctag,dcdate,nmaxid,nminid) values (seq_t_mc.nextval,'ä¸œèŠå†°ç®±','å…¨è‡ªåŠ¨ç”µè„‘æ§æ¸©ï¼Œè‡ªåŠ¨é™¤éœœæŠ€æœ¯',5999,'dongzhi.jpg','0',date '2013-10-10',3,12);
 
-insert into t_order(nid,scuser,dgdate,spaytype,ssendtype,nmctypesize,nmcsize,ntotalprice ,sstatus,ssname,ssaddress ,sscode,ssphone ,ssemail )values(seq_t_order.nextval,'lxf001',sysdate,'ÍøÒøÖ§¸¶','Ö±½Ó¸¶¿î','2','4','1996.0','1','ÁõÏò·å1','É½Î÷´óÍ¬1','037001','18050403041','lxf_44941@163.com')
-insert into t_order(nid,scuser,dgdate,spaytype,ssendtype,nmctypesize,nmcsize,ntotalprice ,sstatus,ssname,ssaddress ,sscode,ssphone ,ssemail )values(seq_t_order.nextval,'lxf002',sysdate,'ÍøÒøÖ§¸¶','Ö±½Ó¸¶¿î','3','4','1199.0','1','ÁõÏò·å2','É½Î÷´óÍ¬2','037002','18050403042','lxf_44942@163.com')
-insert into t_order(nid,scuser,dgdate,spaytype,ssendtype,nmctypesize,nmcsize,ntotalprice ,sstatus,ssname,ssaddress ,sscode,ssphone ,ssemail )values(seq_t_order.nextval,'lxf003',sysdate,'ÍøÒøÖ§¸¶','Ö±½Ó¸¶¿î','2','4','11996.0','1','ÁõÏò·å3','É½Î÷´óÍ¬3','037003','18050403043','lxf_44943@163.com')
-insert into t_order(nid,scuser,dgdate,spaytype,ssendtype,nmctypesize,nmcsize,ntotalprice ,sstatus,ssname,ssaddress ,sscode,ssphone ,ssemail )values(seq_t_order.nextval,'lxf004',sysdate,'ÍøÒøÖ§¸¶','Ö±½Ó¸¶¿î','3','4','11880.0','1','ÁõÏò·å4','É½Î÷´óÍ¬4','037004','18050403044','lxf_44944@163.com')
-insert into t_order(nid,scuser,dgdate,spaytype,ssendtype,nmctypesize,nmcsize,ntotalprice ,sstatus,ssname,ssaddress ,sscode,ssphone ,ssemail )values(seq_t_order.nextval,'lxf005',sysdate,'ÍøÒøÖ§¸¶','Ö±½Ó¸¶¿î','2','4','41996.0','1','ÁõÏò·å5','É½Î÷´óÍ¬5','037005','18050403045','lxf_44945@163.com')
+insert into t_order(nid,scuser,dgdate,spaytype,ssendtype,nmctypesize,nmcsize,ntotalprice ,sstatus,ssname,ssaddress ,sscode,ssphone ,ssemail )values(seq_t_order.nextval,'lxf001',sysdate,'ç½‘é“¶æ”¯ä»˜','ç›´æ¥ä»˜æ¬¾','2','4','1996.0','1','åˆ˜å‘å³°1','å±±è¥¿å¤§åŒ1','037001','12345678','lxf_44941@163.com')
+insert into t_order(nid,scuser,dgdate,spaytype,ssendtype,nmctypesize,nmcsize,ntotalprice ,sstatus,ssname,ssaddress ,sscode,ssphone ,ssemail )values(seq_t_order.nextval,'lxf002',sysdate,'ç½‘é“¶æ”¯ä»˜','ç›´æ¥ä»˜æ¬¾','3','4','1199.0','1','åˆ˜å‘å³°2','å±±è¥¿å¤§åŒ2','037002','12345678','lxf_44942@163.com')
+insert into t_order(nid,scuser,dgdate,spaytype,ssendtype,nmctypesize,nmcsize,ntotalprice ,sstatus,ssname,ssaddress ,sscode,ssphone ,ssemail )values(seq_t_order.nextval,'lxf003',sysdate,'ç½‘é“¶æ”¯ä»˜','ç›´æ¥ä»˜æ¬¾','2','4','11996.0','1','åˆ˜å‘å³°3','å±±è¥¿å¤§åŒ3','037003','12345678','lxf_44943@163.com')
+insert into t_order(nid,scuser,dgdate,spaytype,ssendtype,nmctypesize,nmcsize,ntotalprice ,sstatus,ssname,ssaddress ,sscode,ssphone ,ssemail )values(seq_t_order.nextval,'lxf004',sysdate,'ç½‘é“¶æ”¯ä»˜','ç›´æ¥ä»˜æ¬¾','3','4','11880.0','1','åˆ˜å‘å³°4','å±±è¥¿å¤§åŒ4','037004','12345678','lxf_44944@163.com')
+insert into t_order(nid,scuser,dgdate,spaytype,ssendtype,nmctypesize,nmcsize,ntotalprice ,sstatus,ssname,ssaddress ,sscode,ssphone ,ssemail )values(seq_t_order.nextval,'lxf005',sysdate,'ç½‘é“¶æ”¯ä»˜','ç›´æ¥ä»˜æ¬¾','2','4','41996.0','1','åˆ˜å‘å³°5','å±±è¥¿å¤§åŒ5','037005','12345678','lxf_44945@163.com')
 
-insert into t_order_item(nid,norderid,nmcid,smcname,sdescription,simg,ncount,nprice ,ntotalprice )values(seq_t_order_item.nextval,seq_t_order.currval,'1','ÁªÏëy170','512GÄÚ´æ£¬500G´ÅÅÌ£¬intel core i1´¦ÀíÆ÷£¬¼¯³ÉÏÔ¿¨£¬win xp','lenovo1.jpg','1','1999','22994.0')
-insert into t_order_item(nid,norderid,nmcid,smcname,sdescription,simg,ncount,nprice ,ntotalprice )values(seq_t_order_item.nextval,seq_t_order.currval,'3','ÁªÏëy370','2GÄÚ´æ£¬750G´ÅÅÌ£¬intel core i3´¦ÀíÆ÷£¬Ë«ÏÔ¿¨£¬win7 32Î»','lenovo3.jpg','2','3999','22994.0')
-insert into t_order_item(nid,norderid,nmcid,smcname,sdescription,simg,ncount,nprice ,ntotalprice )values(seq_t_order_item.nextval,seq_t_order.currval,'4','ÁªÏëy470','4GÄÚ´æ£¬750G´ÅÅÌ£¬intel core i4´¦ÀíÆ÷£¬Ë«ÏÔ¿¨£¬win7 64Î»','lenovo4.jpg','1','4999','22994.0')
-insert into t_order_item(nid,norderid,nmcid,smcname,sdescription,simg,ncount,nprice ,ntotalprice )values(seq_t_order_item.nextval,seq_t_order.currval,'6','Æ»¹û1S','2GÄÚ´æ£¬iso1','iphone1.jpg','1','2999','22994.0')
-insert into t_order_item(nid,norderid,nmcid,smcname,sdescription,simg,ncount,nprice ,ntotalprice )values(seq_t_order_item.nextval,seq_t_order.currval,'8','Æ»¹û3S','8GÄÚ´æ£¬iso3','iphone3.jpg','1','4999','22994.0')
+insert into t_order_item(nid,norderid,nmcid,smcname,sdescription,simg,ncount,nprice ,ntotalprice )values(seq_t_order_item.nextval,seq_t_order.currval,'1','è”æƒ³y170','512Gå†…å­˜ï¼Œ500Gç£ç›˜ï¼Œintel core i1å¤„ç†å™¨ï¼Œé›†æˆæ˜¾å¡ï¼Œwin xp','lenovo1.jpg','1','1999','22994.0')
+insert into t_order_item(nid,norderid,nmcid,smcname,sdescription,simg,ncount,nprice ,ntotalprice )values(seq_t_order_item.nextval,seq_t_order.currval,'3','è”æƒ³y370','2Gå†…å­˜ï¼Œ750Gç£ç›˜ï¼Œintel core i3å¤„ç†å™¨ï¼ŒåŒæ˜¾å¡ï¼Œwin7 32ä½','lenovo3.jpg','2','3999','22994.0')
+insert into t_order_item(nid,norderid,nmcid,smcname,sdescription,simg,ncount,nprice ,ntotalprice )values(seq_t_order_item.nextval,seq_t_order.currval,'4','è”æƒ³y470','4Gå†…å­˜ï¼Œ750Gç£ç›˜ï¼Œintel core i4å¤„ç†å™¨ï¼ŒåŒæ˜¾å¡ï¼Œwin7 64ä½','lenovo4.jpg','1','4999','22994.0')
+insert into t_order_item(nid,norderid,nmcid,smcname,sdescription,simg,ncount,nprice ,ntotalprice )values(seq_t_order_item.nextval,seq_t_order.currval,'6','è‹¹æœ1S','2Gå†…å­˜ï¼Œiso1','iphone1.jpg','1','2999','22994.0')
+insert into t_order_item(nid,norderid,nmcid,smcname,sdescription,simg,ncount,nprice ,ntotalprice )values(seq_t_order_item.nextval,seq_t_order.currval,'8','è‹¹æœ3S','8Gå†…å­˜ï¼Œiso3','iphone3.jpg','1','4999','22994.0')
 
 commit;
